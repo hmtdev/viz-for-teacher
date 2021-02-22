@@ -23,7 +23,7 @@ Requirement: phần mềm visualize điểm cho thầy cô
 - chỉnh các biểu đồ cho vừa màn hình
 
 - vẽ histogram cho 3 môn [tiếng anh 1, tiếng anh 2, chứng chỉ toeic 450] thay vì vẽ biểu đồ cột
-
+-(Toàn) cảm thấy thiếu thiếu 1 cái biểu đồ (tròn, các con số phần trăm to to cũng được )  góc dưới bên phải , có thể dùng số tính chỉ để vẽ cái tiến độ học tập của từng sinh viên, lấy cái số tín chỉ học xxx số tín chỉ mặc định cho ra % hoàn thành sớm hơn bao nhiêu % chặn đường vd : mặc định 65 , mình học 70 , thì mình hoàn thành sớm hơn 5-7 % chặn đường -> ra trường sớm :D
 Bug:
 [DONE] key 'Những nguyên lý cơ bản của Chủ nghĩa Mác - Lênin' ko có trong dataframe
 [DONE] cái dropdown vẫn chưa chạy
